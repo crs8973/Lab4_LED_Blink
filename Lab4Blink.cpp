@@ -1,7 +1,7 @@
 /* 
  * Project: Lab 4
  * Author: Camille, Emily, and Maya
- * Date: 
+ * Date: 9-30-24
  * For comprehensive documentation and examples, please visit:
  * https://docs.particle.io/firmware/best-practices/firmware-template/
  */
