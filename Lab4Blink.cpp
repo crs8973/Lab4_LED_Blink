@@ -11,8 +11,7 @@
 
 // We define MY_LED to be the LED that we want to blink.
 //
-// In this tutorial, we're using the blue D7 LED (next to D7 on the Photon
-// and Electron, and next to the USB connector on the Argon and Boron).
+// In this lab, we're using the D6 pin (GPIO)
 const pin_t MY_LED = D6;
 
 // The following line is optional, but recommended in most firmware. It
